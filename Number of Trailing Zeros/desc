@@ -1,0 +1,3 @@
+Compute number of trailing zeros of n factorial
+
+e.g. 32! = 263130836933693530167218012160000000, the result should be 7
