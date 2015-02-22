@@ -14,7 +14,6 @@ public class InorderSuccessor {
 		if (root == null) return null;
 		
 		if (root.right != null) {
-			
 			this.findLeftMost(root.right);
 		} else {
 			TreeNode q = root;
